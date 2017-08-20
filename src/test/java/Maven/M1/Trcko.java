@@ -16,7 +16,7 @@ public class Trcko {
 	@Test
 	public void f() throws InterruptedException {
 
-		//Signup ref = new Signup(driver);
+		Signup ref = new Signup(driver);
 		//ref.test();
 
 		login ref1= new login(driver);
